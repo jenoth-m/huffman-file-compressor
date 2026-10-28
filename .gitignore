@@ -1,0 +1,12 @@
+# Generated builds, archives, and recovered demo files.
+/build*/
+/out/
+*.hfc
+restored*
+
+# Local editor and operating-system files.
+.vs/
+.vscode/
+*.user
+.DS_Store
+Thumbs.db
